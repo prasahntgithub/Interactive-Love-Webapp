@@ -1,4 +1,4 @@
-https://github.com/prasahntgithub/Interactive-Love-Webapp/blob/main/LICENSE
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 # I Love You Website 💖
 
